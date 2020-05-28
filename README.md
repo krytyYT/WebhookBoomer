@@ -6,7 +6,7 @@ Discord Webhook Spammer with proxy support.
 - Add python to PATH
 - Install PIP
 - Download repo
-- Run ```pip install -r```
+- Run ```pip install pyfiglet discord_webhook```
 - Run ```python boomer.py```
 
 

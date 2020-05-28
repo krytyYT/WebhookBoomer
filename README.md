@@ -9,7 +9,9 @@ Discord Webhook Spammer with proxy support.
 - Run ```pip install -r```
 - Run ```python boomer.py```
 
+
 ##License:
+
 ```MIT License
 
 Copyright (c) 2020 krytyYT

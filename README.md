@@ -10,7 +10,7 @@ Discord Webhook Spammer with proxy support.
 - Run ```python boomer.py```
 
 
-##License:
+## License:
 
 ```MIT License
 

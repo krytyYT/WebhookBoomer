@@ -33,10 +33,10 @@ option2 = str(input("    [?] Your webhook url: "))
 print("\n\n     If you want to stop close program this is easy xD")
 while True:
     if prox == "yes":
-        webhook = DiscordWebhook(url=option2, content=option, username="Spamming with: github.com/krytyYT/WebhookBoomer", proxies=proxies())
+        webhook = DiscordWebhook(url=option2, content=option, username="Spamming with: github.com/krytyYT/WebhookBoomer", avatar_url="https://i.imgur.com/4dMqhCc.jpg", proxies=proxies())
         response = webhook.execute()
         print(response)
     else:
-        webhook = DiscordWebhook(url=option2, content=option, username="Spamming with: github.com/krytyYT/WebhookBoomer")
+        webhook = DiscordWebhook(url=option2, content=option, username="Spamming with: github.com/krytyYT/WebhookBoomer", avatar_url="https://i.imgur.com/4dMqhCc.jpg")
         response = webhook.execute()
         print(response)
